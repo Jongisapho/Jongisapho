@@ -20,7 +20,7 @@
 - 🔭 I’m currently working on **https://github.com/Jongisapho/PixelPursuit**
 - 🌱 I’m currently learning **Next.js, TypeScript, JavaScript, Python, Java, C++, AI**
 - 👯 I’m looking to collaborate on **open source projects**
-- 💬 Ask me about **React, Node.js, Prisma, **
+- 💬 Ask me about **React, Node.js, Prisma**
 - 📫 How to reach me: **Jongisaphondeya1@gmail.com**
 - ⚡ Fun fact: **I love soccer, foreign exchange and coding 🚀**
 
