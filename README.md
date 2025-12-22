@@ -4,8 +4,8 @@
 
 <br/>
 
-<h1 align="center">Hi 👋, I'm YOUR_USERNAME</h1>
-<h3 align="center">A passionate developer from [Your Country/City]</h3>
+<h1 align="center">Hi 👋, I'm Jongisapho Ndeya</h1>
+<h3 align="center">A passionate developer from South Africa, Pretoria </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -17,12 +17,12 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **[your project](https://github.com/YOUR_USERNAME/your-repo)**
-- 🌱 I’m currently learning **Next.js, TypeScript, AI**
+- 🔭 I’m currently working on **https://github.com/Jongisapho/PixelPursuit**
+- 🌱 I’m currently learning **Next.js, TypeScript, JavaScript, Python, Java, C++, AI**
 - 👯 I’m looking to collaborate on **open source projects**
-- 💬 Ask me about **React, Node.js, Prisma**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **I love coffee and coding at 2 AM ☕**
+- 💬 Ask me about **React, Node.js, Prisma, **
+- 📫 How to reach me: **Jongisaphondeya1@gmail.com**
+- ⚡ Fun fact: **I love soccer, foreign exchange and coding 🚀**
 
 <br/>
 
