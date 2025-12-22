@@ -11,12 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=Jongisapho&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Jongisapho&theme=dracula&no-frame=true&margin-w=15" alt="trophies" />
-  </a>
-</p>
-
 - 🔭 I’m currently working on **https://github.com/Jongisapho/PixelPursuit**
 - 🌱 I’m currently learning **Next.js, TypeScript, JavaScript, Python, Java, C++, AI**
 - 👯 I’m looking to collaborate on **open source projects**
