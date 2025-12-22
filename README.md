@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BCD4&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;I'm+YOUR_USERNAME;Full-Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BCD4&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;I'm+Jongisapho Ndeya;Full-Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -29,15 +29,15 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/your_twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://instagram.com/your_insta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/jongisapho-ndeya-664724398" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/jongisapho_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,prisma,postgres,mongodb,tailwind,git,docker&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,prisma,postgres,mongodb,tailwind,git,docker&perline=4" />
 </p>
 
 <br/>
