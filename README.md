@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=dracula&no-frame=true&margin-w=15" alt="trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Jongisaphotheme=dracula&no-frame=true&margin-w=15" alt="trophies" />
   </a>
 </p>
 
@@ -37,7 +37,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,prisma,postgres,mongodb,tailwind,git,docker,java,C,python,vscode&perline=4" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,prisma,postgres,mongodb,tailwind,git,docker,java,python,vscode&perline=4" />
 </p>
 
 <br/>
