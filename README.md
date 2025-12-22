@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BCD4&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;I'm+Jongisapho Ndeya;Full-Stack+Developer;Open+Source+Enthusiast" />
-</div>
-
-<br/>
-
 <h1 align="center">Hi 👋, I'm Jongisapho Ndeya</h1>
 <h3 align="center">A passionate developer from South Africa, Pretoria </h3>
 
