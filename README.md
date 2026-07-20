@@ -30,12 +30,4 @@
 
 <br/>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jongisapho&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jongisapho&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</p>
-
 
