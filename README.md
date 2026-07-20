@@ -5,12 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=Jongisapho&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-- 🔭 I’m currently working on **https://github.com/Jongisapho/PixelPursuit**
-- 🌱 I’m currently learning **Machine Learning, AI, Data Sciences, C# .NET framework**
-- 👯 I’m looking to collaborate on **open source projects**
-- 💬 Ask me about **React, Node.js, OOP, Web Development**
+- 🌱 I’m currently learning **Machine Learning, pyTorch, AI Engineering, Advanced SWE Concepts, Data Sciences, C# and more ...**
+- 👯 I’m available to collaborate on **open source projects**
+- 💬 Feel free to Ask me about **Software Engineering, Artificial Intelligence, Natural Language Processing and Data analysis**
 - 📫 How to reach me: **Jongisaphondeya1@gmail.com**
-- ⚡ Fun fact: **I love soccer, foreign exchange and coding 🚀**
+- ⚡ Fun fact: **I love soccer (congrats to spain, btw) , coding and cars🚀**
 
 <br/>
 
