@@ -4,9 +4,9 @@
 
 - 🎓 I am a Computer Science graduate 
 - 👨🏻‍💻 I am Computer Science Honours student at the Univ. of Pretoria
-- 🧠 I'm currently learning Advanced Sofftware Engineering, Machine Learning & Data Analytics
-- 😉 I'm passionate about Tech, Soccer, Cars & More ...
-- 🔥 I am open to collaborate on projects ..
+- 🧠 I'm currently learning Advanced Software Engineering, Machine Learning & Data Analytics
+- 😉 I'm passionate about Technology, Soccer, Cars & More ...
+- 🔥 I am open to collaborate on projects whether open source of private ..
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jongisapho_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jongisapho-ndeya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jongisaphondeya1@gmail.com) 
